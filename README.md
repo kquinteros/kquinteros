@@ -1,7 +1,7 @@
 # Hi there 👋🏽  
 ### I'm Kevin Quinteros  
 
-🔬 **Evolutionary Genomicist | Molecular Biologist **
+🔬 **Evolutionary Genomicist**
 
 ---
 
@@ -9,7 +9,7 @@
 
 - 🧬 I study **speciation, adaptation, and genomic evolution** in insect–plant systems, focusing on **fig wasps and Ficus**.  
 - 💻 My research combines **comparative genomics**, **population genetics**, and **molecular techniques** to understand how genomes diverge.  
-- 🎓 Currently a **Postdoctoral Researcher in the Machado Lab**, where I analyze genomic mechanisms of insect chemosensory evolutuion.  
+- 🎓 Currently a **Postdoctoral Researcher in the Machado Lab at the University of Maryland**, where I analyze genomic mechanisms of insect chemosensory evolutuion.  
 
 ---
 
