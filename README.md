@@ -15,7 +15,7 @@
 
 ### 📫 Connect With Me
 
-[🌐 Personal Website](www.phylofignatico.com) •  
+[🌐 Personal Website]([https://phylofignatico.com) •  
 [🧬 ORCID](https://orcid.org/0000-0002-7121-129X) •  
 [📖 Google Scholar](https://scholar.google.com/citations?hl=en&user=hoy1TEUAAAAJ&view_op=list_works) •  
 [💼 LinkedIn](https://www.linkedin.com/in/kevin-quinteros-phd-348a03320/) •  
